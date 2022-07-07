@@ -1,0 +1,3 @@
+.bread-crumbs > .bread-crumbs-item:not(:last-child)::after{
+    content: "/";
+}
